@@ -2,6 +2,4 @@
 *.perspectivev3
 *.pbxuser
 .DS_Store
-.git
-.node_modules
 build/

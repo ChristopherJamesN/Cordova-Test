@@ -19,12 +19,12 @@
         <param name="ios-package" value="CDVGestureHandler" />
         <param name="onload" value="true" />
     </feature>
-    <name>HelloCordova</name>
+    <name>SportsFeed</name>
     <description>
-        A sample Apache Cordova application that responds to the deviceready event.
+        A sports feed app that pulls the latest headlines from ESPN, Fox Sports, and NFL Network.
     </description>
     <author email="dev@cordova.apache.org" href="http://cordova.io">
-        Apache Cordova Team
+        Chris Nady
     </author>
     <content src="index.html" />
     <access origin="*" />
