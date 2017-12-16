@@ -29,6 +29,7 @@
         <icon height="152" src="res/icon/ios/Icon-App-76x76@2x.png" width="152" />
         <icon height="40" src="res/icon/ios/Icon-App-40x40@1x.png" width="40" />
         <icon height="80" src="res/icon/ios/Icon-App-40x40@2x.png" width="80" />
+        <splash src="res/screen/ios/Default@2x~universal~anyany.png" />
     </platform>
     <engine name="browser" spec="^5.0.1" />
     <engine name="ios" spec="^4.5.4" />
