@@ -1,11 +1,11 @@
 {
   "background_color": "#FFF",
   "display": "standalone",
-  "name": "HelloCordova",
-  "short_name": "HelloCordova",
+  "name": "SportsFeed",
+  "short_name": "SportsFeed",
   "version": "io.cordova.hellocordova",
-  "description": "A sample Apache Cordova application that responds to the deviceready event.",
-  "author": "Apache Cordova Team",
+  "description": "A sports feed app that pulls the latest headlines from ESPN, Fox Sports, and NFL Network.",
+  "author": "Chris Nady",
   "icons": [],
   "start_url": "index.html"
 }
