@@ -9,7 +9,6 @@
     </author>
     <content src="index.html" />
     <access origin="*" />
-    <icon src="res/icon.png" />
     <allow-intent href="http://*/*" />
     <allow-intent href="https://*/*" />
     <allow-intent href="tel:*" />
@@ -23,6 +22,13 @@
     <platform name="ios">
         <allow-intent href="itms:*" />
         <allow-intent href="itms-apps:*" />
+        <icon height="180" src="res/icon/ios/Icon-App-60x60@3x.png" width="180" />
+        <icon height="60" src="res/icon/ios/Icon-App-60x60@1x.png" width="60" />
+        <icon height="120" src="res/icon/ios/Icon-App-60x60@2x.png" width="120" />
+        <icon height="76" src="res/icon/ios/Icon-App-76x76@1x.png" width="76" />
+        <icon height="152" src="res/icon/ios/Icon-App-76x76@2x.png" width="152" />
+        <icon height="40" src="res/icon/ios/Icon-App-40x40@1x.png" width="40" />
+        <icon height="80" src="res/icon/ios/Icon-App-40x40@2x.png" width="80" />
     </platform>
     <engine name="browser" spec="^5.0.1" />
     <engine name="ios" spec="^4.5.4" />
