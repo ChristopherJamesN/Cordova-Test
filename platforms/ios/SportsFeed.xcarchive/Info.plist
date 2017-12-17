@@ -7,7 +7,7 @@
 		<key>ApplicationPath</key>
 		<string>Applications/SportsFeed.app</string>
 		<key>CFBundleIdentifier</key>
-		<string>io.cordova.hellocordova</string>
+		<string>io.cordova.sportsfeed</string>
 		<key>CFBundleShortVersionString</key>
 		<string>1.0.0</string>
 		<key>CFBundleVersion</key>
@@ -18,7 +18,7 @@
 	<key>ArchiveVersion</key>
 	<integer>2</integer>
 	<key>CreationDate</key>
-	<date>2017-12-16T23:10:20Z</date>
+	<date>2017-12-17T23:12:08Z</date>
 	<key>Name</key>
 	<string>SportsFeed</string>
 	<key>SchemeName</key>
