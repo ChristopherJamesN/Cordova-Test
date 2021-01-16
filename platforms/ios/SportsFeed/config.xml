@@ -24,10 +24,7 @@
         <param name="onload" value="true" />
     </feature>
     <name>SportsFeed</name>
-    <description>
-        A sports feed app that pulls the latest headlines from ESPN, Fox Sports, and NFL Network.
-    </description>
-    <author email="dev@cordova.apache.org" href="http://cordova.io">
+    <author email="chris.nady@nadyanalytics.com" href="http://www.nadyanalytics.com/">
         Chris Nady
     </author>
     <content src="index.html" />
