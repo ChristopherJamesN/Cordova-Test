@@ -325,6 +325,7 @@
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
 				COPY_PHASE_STRIP = NO;
+				CURRENT_PROJECT_VERSION = 1.0.1;
 				DEVELOPMENT_TEAM = FRPZD6LCCE;
 				GCC_DYNAMIC_NO_PIC = NO;
 				GCC_OPTIMIZATION_LEVEL = 0;
@@ -335,6 +336,7 @@
 				INFOPLIST_FILE = "SportsFeed/SportsFeed-Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "@executable_path/Frameworks";
+				MARKETING_VERSION = 1.0.1;
 				PRODUCT_BUNDLE_IDENTIFIER = io.cordova.sportsfeed;
 				PRODUCT_NAME = SportsFeed;
 				PROVISIONING_PROFILE_SPECIFIER = "";
@@ -353,6 +355,7 @@
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
 				COPY_PHASE_STRIP = YES;
+				CURRENT_PROJECT_VERSION = 1.0.1;
 				DEVELOPMENT_TEAM = FRPZD6LCCE;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "SportsFeed/SportsFeed-Prefix.pch";
@@ -361,6 +364,7 @@
 				INFOPLIST_FILE = "SportsFeed/SportsFeed-Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "@executable_path/Frameworks";
+				MARKETING_VERSION = 1.0.1;
 				PRODUCT_BUNDLE_IDENTIFIER = io.cordova.sportsfeed;
 				PRODUCT_NAME = SportsFeed;
 				PROVISIONING_PROFILE_SPECIFIER = "";
