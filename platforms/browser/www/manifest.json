@@ -3,8 +3,7 @@
   "display": "standalone",
   "name": "SportsFeed",
   "short_name": "SportsFeed",
-  "version": "io.cordova.hellocordova",
-  "description": "A sports feed app that pulls the latest headlines from ESPN, Fox Sports, and NFL Network.",
+  "version": "io.cordova.sportsfeed",
   "author": "Chris Nady",
   "icons": [],
   "start_url": "index.html"

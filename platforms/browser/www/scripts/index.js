@@ -8,6 +8,8 @@ var app = {
     },
     onDeviceReady: function() {
         app.receivedEvent('deviceready');
+        StatusBar.overlaysWebView(false);
+        StatusBar.backgroundColorByName('black');
 
         // Here, we redirect to the web site.
         var targetUrl = "https://agile-reef-34726.herokuapp.com/";
