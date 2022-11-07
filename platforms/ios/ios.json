@@ -26,11 +26,11 @@
     }
   },
   "installed_plugins": {
-    "cordova-plugin-whitelist": {
-      "PACKAGE_NAME": "io.cordova.hellocordova"
-    },
     "cordova-plugin-statusbar": {
-      "PACKAGE_NAME": "io.cordova.hellocordova"
+      "PACKAGE_NAME": "io.cordova.sportsfeed"
+    },
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "io.cordova.sportsfeed"
     }
   },
   "dependent_plugins": {},
@@ -45,7 +45,7 @@
     }
   ],
   "plugin_metadata": {
-    "cordova-plugin-whitelist": "1.3.3",
-    "cordova-plugin-statusbar": "2.3.0"
+    "cordova-plugin-statusbar": "2.3.0",
+    "cordova-plugin-whitelist": "1.3.3"
   }
 }

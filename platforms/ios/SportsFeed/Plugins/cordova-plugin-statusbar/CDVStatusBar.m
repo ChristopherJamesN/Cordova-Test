@@ -499,7 +499,7 @@ static const void *kStatusBarStyle = &kStatusBarStyle;
         frame.size.height -= frame.origin.y;
         self.webView.frame = frame;
     } else {
-        CGRect bounds = [[UIScreen mainScreen] bounds];
+        CGRect bounds = [[UIScreen mainScreen] applicationFrame];
         self.viewController.view.frame = bounds;
     }
 }
