@@ -1,15 +1,16 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="io.cordova.sportsfeed" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-    <preference name="BackupWebStorage" value="local" />
-    <preference name="AllowNewWindows" value="True"/>
-    <preference name="AllowBackForwardNavigationGestures" value="True"/>
-    <preference name="Allow3DTouchLinkPreview" value="False"/>
-    <preference name="AutoHideSplashScreen" value="False"/>
     <name>SportsFeed</name>
     <author email="chris.nady@nadyanalytics.com" href="http://www.nadyanalytics.com/">
         Chris Nady
     </author>
     <content src="index.html" />
+    <preference name="BackupWebStorage" value="local" />
+    <preference name="AllowNewWindows" value="True"/>
+    <preference name="AllowBackForwardNavigationGestures" value="True"/>
+    <preference name="Allow3DTouchLinkPreview" value="False"/>
+    <preference name="AutoHideSplashScreen" value="False"/>
+    <preference name="MediaPlaybackAllowsAirPlay" value="false"/>
     <access origin="*" />
     <allow-intent href="http://*/*" />
     <allow-intent href="https://*/*" />

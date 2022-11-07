@@ -71,4 +71,5 @@
     <preference name="AllowBackForwardNavigationGestures" value="True" />
     <preference name="Allow3DTouchLinkPreview" value="False" />
     <preference name="AutoHideSplashScreen" value="False" />
+    <preference name="MediaPlaybackAllowsAirPlay" value="false" />
 </widget>
