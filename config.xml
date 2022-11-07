@@ -1,5 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="io.cordova.sportsfeed" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <preference name="BackupWebStorage" value="local" />
+    <preference name="AllowNewWindows" value="True"/>
+    <preference name="AllowBackForwardNavigationGestures" value="True"/>
+    <preference name="Allow3DTouchLinkPreview" value="False"/>
+    <preference name="AutoHideSplashScreen" value="False"/>
     <name>SportsFeed</name>
     <author email="chris.nady@nadyanalytics.com" href="http://www.nadyanalytics.com/">
         Chris Nady
@@ -27,7 +32,6 @@
         <icon height="40" src="res/icon/ios/Icon-App-40x40@1x.png" width="40" />
         <icon height="80" src="res/icon/ios/Icon-App-40x40@2x.png" width="80" />
         <splash src="res/screen/ios/Default@2x~universal~anyany.png" />
-        <preference name="BackupWebStorage" value="local" />
     </platform>
     <engine name="browser" spec="6.0.0" />
     <plugin name="cordova-plugin-whitelist" spec="1.3.5" />
