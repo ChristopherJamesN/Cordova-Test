@@ -30,12 +30,28 @@
 	<true/>
 	<key>NSAppTransportSecurity</key>
 	<dict>
+		<key>NSAllowsArbitraryLoadsInWebContentUsageDescription</key>
+		<dict>
+			<key>NSATSExceptionThirdPartyServiceConnectionUsage</key>
+			<dict>
+				<key>NSATSExceptionThirdPartyServiceConnectionUsage</key>
+				<dict>
+					<key>NSATSExceptionUsageUserChosenContent</key>
+					<true/>
+				</dict>
+			</dict>
+		</dict>
 		<key>NSAllowsArbitraryLoads</key>
 		<true/>
 		<key>NSExceptionDomains</key>
 		<dict>
 			<key>agile-reef-34726.herokuapp.com</key>
-			<dict/>
+			<dict>
+				<key>NSExceptionMinimumTLSVersion</key>
+				<string>TLSv1.0</string>
+				<key>NSExceptionRequiresForwardSecrecy</key>
+				<false/>
+			</dict>
 		</dict>
 	</dict>
 	<key>UILaunchStoryboardName</key>
