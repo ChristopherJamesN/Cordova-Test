@@ -67,9 +67,9 @@
     <preference name="PaginationMode" value="unpaginated" />
     <preference name="StatusBarOverlaysWebView" value="true" />
     <preference name="StatusBarStyle" value="lightcontent" />
-    <preference name="AllowNewWindows" value="True" />
+    <preference name="AllowNewWindows" value="False" />
     <preference name="AllowBackForwardNavigationGestures" value="True" />
     <preference name="Allow3DTouchLinkPreview" value="False" />
-    <preference name="AutoHideSplashScreen" value="False" />
+    <preference name="AutoHideSplashScreen" value="True" />
     <preference name="MediaPlaybackAllowsAirPlay" value="false" />
 </widget>
