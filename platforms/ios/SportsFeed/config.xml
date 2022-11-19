@@ -41,7 +41,7 @@
     <allow-intent href="sms:*" />
     <allow-intent href="mailto:*" />
     <allow-intent href="geo:*" />
-    <allow-navigation href="https://agile-reef-34726.herokuapp.com/" />
+    <allow-navigation href="https://rails-news-feed-jt3432sekq-uc.a.run.app/" />
     <allow-intent href="itms:*" />
     <allow-intent href="itms-apps:*" />
     <icon height="180" src="res/icon/ios/Icon-App-60x60@3x.png" width="180" />

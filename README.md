@@ -12,3 +12,9 @@ Build the ios platform project with:
 ```
 cordova build ios
 ```
+
+Build the browser platform project with:
+
+```
+cordova build browser
+```

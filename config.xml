@@ -18,7 +18,7 @@
     <allow-intent href="sms:*" />
     <allow-intent href="mailto:*" />
     <allow-intent href="geo:*" />
-    <allow-navigation href="https://agile-reef-34726.herokuapp.com/" />
+    <allow-navigation href="https://rails-news-feed-jt3432sekq-uc.a.run.app/" />
     <platform name="android">
         <allow-intent href="market:*" />
     </platform>

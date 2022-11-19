@@ -12,7 +12,7 @@ var app = {
     StatusBar.backgroundColorByName('black');
 
     // Here, we redirect to the web site.
-    var targetUrl = 'https://agile-reef-34726.herokuapp.com/';
+    var targetUrl = 'https://rails-news-feed-jt3432sekq-uc.a.run.app/';
     var bkpLink = document.getElementById('bkpLink');
     console.log('attempting to redirect to ' + targetUrl);
     console.log('bkplink attribute is ' + bkpLink);

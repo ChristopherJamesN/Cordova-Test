@@ -12,9 +12,9 @@
     <allow-intent href="sms:*" />
     <allow-intent href="mailto:*" />
     <allow-intent href="geo:*" />
-    <allow-navigation href="https://agile-reef-34726.herokuapp.com/" />
+    <allow-navigation href="https://rails-news-feed-jt3432sekq-uc.a.run.app/" />
     <preference name="BackupWebStorage" value="local" />
-    <preference name="AllowNewWindows" value="True" />
+    <preference name="AllowNewWindows" value="False" />
     <preference name="AllowBackForwardNavigationGestures" value="True" />
     <preference name="Allow3DTouchLinkPreview" value="False" />
     <preference name="AutoHideSplashScreen" value="True" />
